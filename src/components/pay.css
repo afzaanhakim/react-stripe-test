@@ -1,0 +1,28 @@
+.pay-container {
+  background: blue;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.pay-button-container {
+  background: white;
+  padding: 40px;
+}
+
+.pay-button-container button {
+  background:yellow;
+  color: black;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 10px;;
+  cursor: pointer;
+ 
+}
+
+.pay-button-container button:hover{
+background:black;
+color:white;
+}
